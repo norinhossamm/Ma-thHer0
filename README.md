@@ -2,7 +2,7 @@
 
 This OpenGL game, titled "Ma+h Her0," is an interactive educational game that challenges players to solve randomized math equations against a timer. With varying difficulty levels and dynamic animations, the game offers an engaging way to improve math skills while tracking high scores and ranks in a competitive format.
 
-**Tools Used**: C++ - OpenGL 
+**Technologies Used**: C++ - OpenGL 
 
 <div align=center>
 <img width="674" alt="Screenshot 2024-08-06 at 6 19 07 PM" src="https://github.com/user-attachments/assets/3c098dcd-e9d5-4abc-a987-48a6ac9faa69">
